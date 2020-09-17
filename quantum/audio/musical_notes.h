@@ -18,7 +18,7 @@
 #define MUSICAL_NOTES_H
 
 // Tempo Placeholder
-#define TEMPO_DEFAULT 60
+#define TEMPO_DEFAULT 80
 
 #define SONG(notes...) \
     { notes }
