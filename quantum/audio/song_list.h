@@ -34,6 +34,13 @@
  */
 #define SANDYS_CITY B__NOTE(_D4), B__NOTE(_F4), B__NOTE(_F4), B__NOTE(_D4), B__NOTE(_AS4), B__NOTE(_AS4), B__NOTE(_D4), B__NOTE(_A4), B__NOTE(_A4), B__NOTE(_D4), B__NOTE(_G4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_E4),
 
+/* Doom's Gate
+ * Author: Bobby Prince
+ + License: Content is available under GNU Free Documentation License 1.2 unless otherwise noted.
+ */
+#define DOOMS_GATE Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_E5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_D5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_C5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_AS4), Q__NOTE(_E4), Q__NOTE(_E4), H__NOTE(_B4), H__NOTE(_C5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_E5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_D5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_C5), Q__NOTE(_E4), Q__NOTE(_E4), W__NOTE(_AS4),
+
+ 
 /* Ode to Joy
  * Author: Friedrich Schiller
  + License: Public Domain
