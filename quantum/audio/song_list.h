@@ -32,7 +32,7 @@
  * Author: Bobby Prince
  + License: Content is available under GNU Free Documentation License 1.2 unless otherwise noted.
  */
-#define SANDYS_CITY Q__NOTE(_D2), Q__NOTE(_F2), Q__NOTE(_F2), Q__NOTE(_D2), Q__NOTE(_AS3), Q__NOTE(_AS3), Q__NOTE(_D2), Q__NOTE(_G3),  Q__NOTE(_G3),  H__NOTE(_F3), H__NOTE(_G3), H__NOTE(_F3), H__NOTE(_E3),
+#define SANDYS_CITY Q__NOTE(_D4), Q__NOTE(_F4), Q__NOTE(_F4), Q__NOTE(_D4), Q__NOTE(_AS5), Q__NOTE(_AS5), Q__NOTE(_D4), Q__NOTE(_G5),  Q__NOTE(_G5),  H__NOTE(_F5), H__NOTE(_G5), H__NOTE(_F5), H__NOTE(_E5),
 
 /* Ode to Joy
  * Author: Friedrich Schiller
