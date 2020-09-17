@@ -32,13 +32,12 @@
  * Author: Bobby Prince
  + License: Content is available under GNU Free Documentation License 1.2 unless otherwise noted.
  */
-#define SANDYS_CITY W__NOTE(_D4), W__NOTE(_F4), W__NOTE(_F4), W__NOTE(_D4), W__NOTE(_AS5), W__NOTE(_AS5), W__NOTE(_D4), W__NOTE(_A5), W__NOTE(_A5), W__NOTE(_D4), W__NOTE(_G5), W__NOTE(_G5), B__NOTE(_F5), B__NOTE(_G5), B__NOTE(_F5), B__NOTE(_E5),
-
+#define SANDYS_CITY B__NOTE(_D4), B__NOTE(_F4), B__NOTE(_F4), B__NOTE(_D4), B__NOTE(_AS4), B__NOTE(_AS4), B__NOTE(_D4), B__NOTE(_A4), B__NOTE(_A4), B__NOTE(_D4), B__NOTE(_G4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_G5), B__NOTE(_F4), B__NOTE(_E4),
 /* Ode to Joy
  * Author: Friedrich Schiller
  + License: Public Domain
  */
-#define SANDYS_CITY B__NOTE(_D4), B__NOTE(_F4), B__NOTE(_F4), B__NOTE(_D4), B__NOTE(_AS4), B__NOTE(_AS4), B__NOTE(_D4), B__NOTE(_A4), B__NOTE(_A4), B__NOTE(_D4), B__NOTE(_G4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_G5), B__NOTE(_F4), B__NOTE(_E4),
+#define ODE_TO_JOY Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_F4), Q__NOTE(_G4), Q__NOTE(_G4), Q__NOTE(_F4), Q__NOTE(_E4), Q__NOTE(_D4), Q__NOTE(_C4), Q__NOTE(_C4), Q__NOTE(_D4), Q__NOTE(_E4), QD_NOTE(_E4), E__NOTE(_D4), H__NOTE(_D4),
 
 /* Rock-a-bye Baby
  * Author: Unknown
