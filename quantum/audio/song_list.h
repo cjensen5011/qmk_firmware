@@ -38,7 +38,7 @@
  * Author: Bobby Prince
  + License: Content is available under GNU Free Documentation License 1.2 unless otherwise noted.
  */
-#define DOOMS_GATE Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_E5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_D5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_C5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_AS4), Q__NOTE(_E4), Q__NOTE(_E4), H__NOTE(_B4), H__NOTE(_C5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_E5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_D5), Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_C5), Q__NOTE(_E4), Q__NOTE(_E4), W__NOTE(_AS4),
+#define DOOMS_GATE H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_E5), H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_D5), H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_C5), H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_AS4), H__NOTE(_E4), H__NOTE(_E4), B__NOTE(_B4), B__NOTE(_C5), H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_E5), H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_D5), H__NOTE(_E4), H__NOTE(_E4), H__NOTE(_C5), H__NOTE(_E4), H__NOTE(_E4), B__NOTE(_AS4),
 
  
 /* Ode to Joy
