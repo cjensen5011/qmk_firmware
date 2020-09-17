@@ -32,7 +32,8 @@
  * Author: Bobby Prince
  + License: Content is available under GNU Free Documentation License 1.2 unless otherwise noted.
  */
-#define SANDYS_CITY B__NOTE(_D4), B__NOTE(_F4), B__NOTE(_F4), B__NOTE(_D4), B__NOTE(_AS4), B__NOTE(_AS4), B__NOTE(_D4), B__NOTE(_A4), B__NOTE(_A4), B__NOTE(_D4), B__NOTE(_G4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_G5), B__NOTE(_F4), B__NOTE(_E4),
+#define SANDYS_CITY B__NOTE(_D4), B__NOTE(_F4), B__NOTE(_F4), B__NOTE(_D4), B__NOTE(_AS4), B__NOTE(_AS4), B__NOTE(_D4), B__NOTE(_A4), B__NOTE(_A4), B__NOTE(_D4), B__NOTE(_G4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_E4),
+
 /* Ode to Joy
  * Author: Friedrich Schiller
  + License: Public Domain
