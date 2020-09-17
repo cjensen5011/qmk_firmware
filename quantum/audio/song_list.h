@@ -38,7 +38,7 @@
  * Author: Friedrich Schiller
  + License: Public Domain
  */
-#define ODE_TO_JOY Q__NOTE(_E4), Q__NOTE(_E4), Q__NOTE(_F4), Q__NOTE(_G4), Q__NOTE(_G4), Q__NOTE(_F4), Q__NOTE(_E4), Q__NOTE(_D4), Q__NOTE(_C4), Q__NOTE(_C4), Q__NOTE(_D4), Q__NOTE(_E4), QD_NOTE(_E4), E__NOTE(_D4), H__NOTE(_D4),
+#define SANDYS_CITY B__NOTE(_D4), B__NOTE(_F4), B__NOTE(_F4), B__NOTE(_D4), B__NOTE(_AS4), B__NOTE(_AS4), B__NOTE(_D4), B__NOTE(_A4), B__NOTE(_A4), B__NOTE(_D4), B__NOTE(_G4), B__NOTE(_G4), B__NOTE(_F4), B__NOTE(_G5), B__NOTE(_F4), B__NOTE(_E4),
 
 /* Rock-a-bye Baby
  * Author: Unknown
